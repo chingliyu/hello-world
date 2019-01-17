@@ -1,2 +1,3 @@
 # hello-world
-The GitHub Hello World Project
+
+This is the GitHub "Hello World" Project Exercise
